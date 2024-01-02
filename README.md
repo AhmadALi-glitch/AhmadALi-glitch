@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @AhmadALi-glitch
- I'am a front-end Angular developer, everyone can be a programmer, but not passionate programmer
+Hello, my name is ahmad
+I'm a Fronte End Developer
+I use vue in my job, and a bit of Angular
+passionate about contributing to open-source projects
+to learn and help
 
 <!---
 AhmadALi-glitch/AhmadALi-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
