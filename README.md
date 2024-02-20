@@ -1,6 +1,6 @@
 Hello, my name is ahmad
 I'm a Fronte End Developer
-I use vue in my job, and a bit of Angular
+I use vue and react
 passionate about contributing to open-source projects
 to learn and help
 
